@@ -6,11 +6,13 @@ This repo contains the **React-based web application** developed by our team to 
 ---
 ## 🤝 Team – Digital Pioneers  
 
-- 👩‍💻 Habeba Ehab   
-- 👨‍💻 Mohamed Shaaban  
-- 👩‍💻 Leila Mostafa 
-- 👨‍💻 Mohamed Shames
-- 👨‍💻 Mahmoud Mostafa 
+## 🤝 Team – Digital Pioneers  
+
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20"/> **Habeba Ehab**  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20"/> **Mohamed Shaaban**  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="20"/> **Leila Mostafa**  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="20"/> **Mohamed Shames**  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="20"/> **Mahmoud Mostafa**  
 
 
 ## 📌 Overview  
