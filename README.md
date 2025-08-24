@@ -4,9 +4,14 @@ Welcome to the **Our frontend repository** of the Digital Pioneers Initiative(DE
 This repo contains the **React-based web application** developed by our team to deliver a modern, responsive, and user-friendly digital solution. ✨  
 
 ---
-## 🤝 Team – Digital Pioneers  
+ ## 🤝 Team – Digital Pioneers  
 
- 
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20"/> **Habeba Ehab**  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20"/> **Mohamed Shaaban**  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20"/> **Leila Mostafa**  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20"/> **Mohamed Shames**  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20"/> **Mahmoud Mostafa**  
+
 
 
 ## 📌 Overview  
