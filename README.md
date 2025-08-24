@@ -32,9 +32,9 @@ Our focus:
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
 
 ## 📊 Repo Stats
-![GitHub repo size](https://img.shields.io/github/repo-size/ORG_NAME/REPO_NAME?style=for-the-badge)
-![GitHub contributors](https://img.shields.io/github/contributors/ORG_NAME/REPO_NAME?style=for-the-badge)
-![GitHub last commit](https://img.shields.io/github/last-commit/ORG_NAME/REPO_NAME?style=for-the-badge)
-![GitHub issues](https://img.shields.io/github/issues/ORG_NAME/REPO_NAME?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/ORG_NAME/depiproject1?style=for-the-badge)
+![GitHub contributors](https://img.shields.io/github/contributors/ORG_NAME/depiproject1?style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/ORG_NAME/depiproject1?style=for-the-badge)
+![GitHub issues](https://img.shields.io/github/issues/ORG_NAME/depiproject1?style=for-the-badge)
 
 
