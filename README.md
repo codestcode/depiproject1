@@ -1,4 +1,4 @@
-# 🚀 Group 1 (Always)– React Frontend Gharbia
+# 🚀 Group 1 – React Frontend Gharbia
 
 Welcome to the **Our frontend repository** of the Digital Pioneers Initiative(DEPI).  
 This repo contains the **React-based web application** developed by our team to deliver a modern, responsive, and user-friendly digital solution. ✨  
